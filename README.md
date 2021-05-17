@@ -29,9 +29,9 @@ Finally if you want to **learn more about what R can do** you can find more info
 What you are going to find in this repo
 
 - In  the  ***installation  instructions***  you  can  find  the  installation instructions.  
-- In the ***Code***  you can find all the R Script. 
+- In the ***DataVisCode***  you can find all the R Script. 
 - In the ***datasets*** you are going to find all information concerning the datasets used. 
-- In the ***Slides*** you are going to find the ppt presentation used during the workshop 
+- In the ***RVisualisation.pptx*** you are going to find the ppt presentation used during the workshop 
 
 
 How to set a R project  
