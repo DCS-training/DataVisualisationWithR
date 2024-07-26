@@ -34,7 +34,7 @@ What you are going to find in this repo
 - In the ***RVisualisation.pptx*** you are going to find the ppt presentation used during the workshop 
 
 
-How to set a R project  
+How to set an R project  
 
 - We are going to cover the subject during the first class but you can find more info on how to set a project in here[ https://support.rstudio.com/hc/en- us/articles/200526207-Using-Projects ](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects)
 - Or you can watch this video:[ https://www.youtube.com/watch?v=pyJMWlDptYw ](https://www.youtube.com/watch?v=pyJMWlDptYw)
